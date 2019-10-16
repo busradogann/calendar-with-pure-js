@@ -1,0 +1,12 @@
+label.lead.mr-2.ml-2 {
+    font-family: 'Dancing Script', cursive ;
+    font-size: 18px;
+}
+
+span.event {
+    font-family: 'Dancing Script', cursive;
+}
+
+select {
+    cursor: pointer;
+}
